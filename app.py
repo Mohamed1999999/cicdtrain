@@ -32,7 +32,7 @@ def main():
 
 if __name__ == "__main__":
 
-    print(" This is a sample web application that displays a colored background. \n"
+    print(" This is a jsut sample web application that displays a colored background. \n"
           " A color can be specified in two ways. \n"
           "\n"
           " 1. As a command line argument with --color as the argument. Accepts one of " + SUPPORTED_COLORS + " \n"
